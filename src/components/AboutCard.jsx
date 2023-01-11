@@ -4,7 +4,7 @@ function AboutCard() {
   return (
     <div className="card max-h-fit bg-slate-500 rounded-xl w-1/4 p-5 absolute z-10 m-10 shadow-lg text-center text-white">
       <img
-        src="https://picsum.photos/200/300"
+        src="https://media.licdn.com/dms/image/C5603AQE1cS9Fmo7edw/profile-displayphoto-shrink_400_400/0/1658643055884?e=1678924800&v=beta&t=D_V0AX01ZOVUao20wLSvX_4uXZhawHjcdvPuTt1asLg"
         className="card-img-top rounded-full w-52 h-52 mb-3 mx-auto"
         alt="..."
       />
